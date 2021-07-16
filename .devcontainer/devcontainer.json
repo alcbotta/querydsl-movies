@@ -16,5 +16,6 @@
         "Pivotal.vscode-spring-boot",
         "gabrielbb.vscode-lombok"
     ],
-    "settings": {}
+    "settings": {},
+    "postCreateCommand": "mvn eclipse:eclipse"
 }
